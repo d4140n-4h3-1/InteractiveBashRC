@@ -36,6 +36,8 @@ function mkcd () {
 
 alias mkdc='mkcd'
 
+### ??? Unusual Commands ??? ###
+
 ### !!! FAILED ATTEMPTS !!! ###
 
 # Creating folder and entering folders and creating a file at once.
